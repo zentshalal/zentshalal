@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**zentshalal/zentshalal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm __Kylian__, an aspiring full-stack web developer in France.
 
-Here are some ideas to get you started:
+I love coding whatever I have in mind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also tend to code personal websites I use for myself.
+
+I consider coding as an art.
+
+I don't have any stack for now, i code purely with html, css and js.
+
+I don't have that much projects on github, but hopefully, it won't remain like this.
+
+**Facts about me :**
+
+ - I love learning new things
+ - Next year, I will be in college
+ - I am open to critics
+ - I love physics
