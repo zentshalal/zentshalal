@@ -1,20 +1,26 @@
 ## Hey there 👋
 
-I'm __Kylian__, an aspiring full-stack web developer in France.
+I'm Kylian, an aspiring software engineer based in France.
 
-I love coding whatever I have in mind.
+I love coding whatever I have in mind. I consider coding as an art.
 
 I also tend to code personal websites I use for myself.
 
-I consider coding as an art.
+This account is brand new, I will be posting my personal projects and my portfolio.
 
-I don't have any stack for now, i code purely with html, css and js.
+-----
 
-I don't have that much projects on github, but hopefully, it won't remain like this.
+## Tools & Tech 🔧
 
-**Facts about me :**
+ - Pure Javascript (for now)
+ - GSAP for animations
+ - Figma
+
+-----
+
+## Facts about me 😉
 
  - I love learning new things
- - Next year, I will be in college
- - I am open to critics
- - I love physics
+ - Next year, I will be starting my first year in university
+ - I am open to feedback and code reviews
+ - I love physics and how the world works
