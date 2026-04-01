@@ -13,7 +13,7 @@ This account is brand new, I will be posting my personal projects and my portfol
 ## Tools & Tech 🔧
 
  - Pure Javascript (for now)
- - GSAP for animations
+ - Tailwind CSS 
  - Figma
 
 -----
