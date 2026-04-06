@@ -12,8 +12,9 @@ This account is brand new, I will be posting my personal projects and my portfol
 
 ## Tools & Tech 🔧
 
- - Pure Javascript (for now)
- - Tailwind CSS 
+ - React JS
+ - Tailwind CSS
+ - Vite 
  - Figma
 
 -----
