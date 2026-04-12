@@ -13,9 +13,11 @@ This account is brand new, I will be posting my personal projects and my portfol
 ## Tools & Tech 🔧
 
  - React JS
+ - Typescript
  - Tailwind CSS
  - Vite 
  - Figma
+ - Supabase
 
 -----
 
