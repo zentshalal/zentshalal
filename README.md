@@ -1,29 +1,10 @@
-## Hey there 👋
+# 💫 About Me:
+I'm Kylian, an aspiring software engineer based in France.<br>I love coding whatever I have in mind. I consider coding as an art.<br>I also tend to code personal websites I use for myself.<br>This account is brand new, I will be posting my personal projects and my portfolio.
 
-I'm Kylian, an aspiring software engineer based in France.
 
-I love coding whatever I have in mind. I consider coding as an art.
-
-I also tend to code personal websites I use for myself.
-
-This account is brand new, I will be posting my personal projects and my portfolio.
-
------
-
-## Tools & Tech 🔧
-
- - React JS
- - Typescript
- - Tailwind CSS
- - Vite 
- - Figma
- - Supabase
-
------
-
-## Facts about me 😉
-
- - I love learning new things
- - Next year, I will be starting my first year in university
- - I am open to feedback and code reviews
- - I love physics and how the world works
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=zentshalal&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=zentshalal&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=zentshalal&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
